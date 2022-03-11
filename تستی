@@ -1,17 +1,14 @@
 [
- {
-  "test": "Hello"
-  "id": "@amin"
-
- }
- {
-  "test": "Made with love"
-  "id": "@amin2"
-
- }
- {
-  "test": "Manufacturer ID in Telegram:https://t.em/hoseeinshp"      
-  "id": "@amin3"
-
- }
-]
+   {
+     "test": "حسین",
+     "id": "ندارد"
+   },
+   {
+     "test": "علی",
+     "id": "ندارد"
+   },
+   {
+     "test": "مش رجب",
+     "id": "ندارد"
+   }
+ ]
